@@ -1,0 +1,19 @@
+{
+  "name": "react-native-camera-zbar",
+  "version": "0.0.1",
+  "description": "React native camera with zbar scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DealersLinkDevTeam/react-native-camera-zbar.git"
+  },
+  "author": "jQN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DealersLinkDevTeam/react-native-camera-zbar/issues"
+  },
+  "homepage": "https://github.com/DealersLinkDevTeam/react-native-camera-zbar#readme"
+}
