@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DealersLinkDevTeam/react-native-camera-zbar/issues"
   },
-  "homepage": "https://github.com/DealersLinkDevTeam/react-native-camera-zbar#readme"
+  "homepage": "https://github.com/DealersLinkDevTeam/react-native-camera-zbar#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
 }

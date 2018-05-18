@@ -381,6 +381,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
                         switch (sym.getType()){
                             case Symbol.CODE39: type = "code39"; break;
                             case Symbol.QRCODE: type = "qr"; break;
+                            case Symbol.CODE128: type = "code128"; break; 
                             default: type = "none";
                         }
                     }
