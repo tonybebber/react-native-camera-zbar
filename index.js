@@ -148,6 +148,8 @@ export class Camera extends Component {
       isAuthorized: false,
       isRecording: false
     };
+
+    alert('test');
   }
 
   async componentWillMount() {
@@ -285,7 +287,7 @@ export class Camera extends Component {
 export const constants = Camera.constants;
 
 //export const RCTCamera = requireNativeComponent('RCTCamera', Camera);
-const RCTCamera = requireNativeComponent('RCTCamera', Camera);
+export const RCTCamera = requireNativeComponent('RCTCamera', Camera);
 
 const styles = StyleSheet.create({
   base: {},
