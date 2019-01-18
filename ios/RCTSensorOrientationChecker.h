@@ -1,6 +1,6 @@
 //
 //  RCTSensorOrientationChecker.h
-//  RCTCamera
+//  RCTCameraOld
 //
 //  Created by Radu Popovici on 24/03/16.
 //

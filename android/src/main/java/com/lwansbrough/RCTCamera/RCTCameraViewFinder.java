@@ -2,7 +2,7 @@
  * Created by Fabrice Armisen (farmisen@gmail.com) on 1/3/16.
  */
 
-package com.lwansbrough.RCTCamera;
+package com.lwansbrough.RCTCameraOld;
 
 import android.content.Context;
 import android.graphics.Rect;
@@ -39,7 +39,7 @@ import net.sourceforge.zbar.ImageScanner;
 import net.sourceforge.zbar.Symbol;
 import net.sourceforge.zbar.SymbolSet;
 
-class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceTextureListener, Camera.PreviewCallback {
+class RCTCameraOldViewFinder extends TextureView implements TextureView.SurfaceTextureListener, Camera.PreviewCallback {
     private int _cameraType;
     private int _captureMode;
     private SurfaceTexture _surfaceTexture;
@@ -66,11 +66,11 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
     private Handler autofocusHandler;
     private Runnable autoFocusRunnable;
 
-    public RCTCameraViewFinder(Context context, int type) {
+    public RCTCameraOldViewFinder(Context context, int type) {
         super(context);
         this.setSurfaceTextureListener(this);
         this._cameraType = type;
-        this.initBarcodeReader(RCTCamera.getInstance().getBarCodeTypes());
+        this.initBarcodeReader(RCTCameraOld.getInstance().getBarCodeTypes());
         //init zbar lib
         scanner = new ImageScanner();
         scanner.setConfig(0, Config.X_DENSITY, 3);
@@ -109,8 +109,8 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
     }
 
     public double getRatio() {
-        int width = RCTCamera.getInstance().getPreviewWidth(this._cameraType);
-        int height = RCTCamera.getInstance().getPreviewHeight(this._cameraType);
+        int width = RCTCameraOld.getInstance().getPreviewWidth(this._cameraType);
+        int height = RCTCameraOld.getInstance().getPreviewHeight(this._cameraType);
         return ((float) width) / ((float) height);
     }
 
@@ -129,20 +129,20 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
     }
 
     public void setCaptureMode(final int captureMode) {
-        RCTCamera.getInstance().setCaptureMode(_cameraType, captureMode);
+        RCTCameraOld.getInstance().setCaptureMode(_cameraType, captureMode);
         this._captureMode = captureMode;
     }
 
     public void setCaptureQuality(String captureQuality) {
-        RCTCamera.getInstance().setCaptureQuality(_cameraType, captureQuality);
+        RCTCameraOld.getInstance().setCaptureQuality(_cameraType, captureQuality);
     }
 
     public void setTorchMode(int torchMode) {
-        RCTCamera.getInstance().setTorchMode(_cameraType, torchMode);
+        RCTCameraOld.getInstance().setTorchMode(_cameraType, torchMode);
     }
 
     public void setFlashMode(int flashMode) {
-        RCTCamera.getInstance().setFlashMode(_cameraType, flashMode);
+        RCTCameraOld.getInstance().setFlashMode(_cameraType, flashMode);
     }
 
     private void startPreview() {
@@ -161,11 +161,11 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
         if (!_isStarting) {
             _isStarting = true;
             try {
-                _camera = RCTCamera.getInstance().acquireCameraInstance(_cameraType);
+                _camera = RCTCameraOld.getInstance().acquireCameraInstance(_cameraType);
                 Camera.Parameters parameters = _camera.getParameters();
 
-                final boolean isCaptureModeStill = (_captureMode == RCTCameraModule.RCT_CAMERA_CAPTURE_MODE_STILL);
-                final boolean isCaptureModeVideo = (_captureMode == RCTCameraModule.RCT_CAMERA_CAPTURE_MODE_VIDEO);
+                final boolean isCaptureModeStill = (_captureMode == RCTCameraOldModule.RCT_CAMERA_CAPTURE_MODE_STILL);
+                final boolean isCaptureModeVideo = (_captureMode == RCTCameraOldModule.RCT_CAMERA_CAPTURE_MODE_VIDEO);
                 if (!isCaptureModeStill && !isCaptureModeVideo) {
                     throw new RuntimeException("Unsupported capture mode:" + _captureMode);
                 }
@@ -187,11 +187,11 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
                 if (isCaptureModeStill) {
                     supportedSizes = parameters.getSupportedPictureSizes();
                 } else if (isCaptureModeVideo) {
-                    supportedSizes = RCTCamera.getInstance().getSupportedVideoSizes(_camera);
+                    supportedSizes = RCTCameraOld.getInstance().getSupportedVideoSizes(_camera);
                 } else {
                     throw new RuntimeException("Unsupported capture mode:" + _captureMode);
                 }
-                Camera.Size optimalPictureSize = RCTCamera.getInstance().getBestSize(
+                Camera.Size optimalPictureSize = RCTCameraOld.getInstance().getBestSize(
                         supportedSizes,
                         Integer.MAX_VALUE,
                         Integer.MAX_VALUE
@@ -240,7 +240,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
                     _camera.stopPreview();
                     // stop sending previews to `onPreviewFrame`
                     _camera.setPreviewCallback(null);
-                    RCTCamera.getInstance().releaseCameraInstance(_cameraType);
+                    RCTCameraOld.getInstance().releaseCameraInstance(_cameraType);
                     _camera = null;
                     cameraIsRelease = true;
                 }
@@ -296,7 +296,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
         } else if ("upceanextension".equals(c)) {
             return BarcodeFormat.UPC_EAN_EXTENSION;
         } else {
-            android.util.Log.v("RCTCamera", "Unsupported code.. [" + c + "]");
+            android.util.Log.v("RCTCameraOld", "Unsupported code.. [" + c + "]");
             return null;
         }
     }
@@ -329,8 +329,8 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
      * See {Camera.PreviewCallback}
      */
     public void onPreviewFrame(byte[] data, Camera camera) {
-        if (RCTCamera.getInstance().isBarcodeScannerEnabled() && !RCTCameraViewFinder.barcodeScannerTaskLock) {
-            RCTCameraViewFinder.barcodeScannerTaskLock = true;
+        if (RCTCameraOld.getInstance().isBarcodeScannerEnabled() && !RCTCameraOldViewFinder.barcodeScannerTaskLock) {
+            RCTCameraOldViewFinder.barcodeScannerTaskLock = true;
             new ReaderAsyncTask(camera, data).execute();
         }
     }
@@ -356,7 +356,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
             int height = size.height;
 
             // rotate for zxing if orientation is portrait
-            if (RCTCamera.getInstance().getActualDeviceOrientation() == 0) {
+            if (RCTCameraOld.getInstance().getActualDeviceOrientation() == 0) {
                 byte[] rotated = new byte[imageData.length];
                 for (int y = 0; y < height; y++) {
                     for (int x = 0; x < width; x++) {
@@ -392,7 +392,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
                         String s = rawResult.toString();
                         rawResult = s.substring(1);
                     }
-                    ReactContext reactContext = RCTCameraModule.getReactContextSingleton();
+                    ReactContext reactContext = RCTCameraOldModule.getReactContextSingleton();
                     WritableMap event = Arguments.createMap();
                     event.putString("data", rawResult);
                     event.putString("type", type);
@@ -403,7 +403,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
                     BinaryBitmap bitmap = new BinaryBitmap(new HybridBinarizer(source));
                     //Result result2 = _multiFormatReader.decodeWithState(bitmap);
                     Result result2 = reader.decode(bitmap);
-                    ReactContext reactContext = RCTCameraModule.getReactContextSingleton();
+                    ReactContext reactContext = RCTCameraOldModule.getReactContextSingleton();
                     WritableMap event = Arguments.createMap();
                     event.putString("data", result2.getText());
                     event.putString("type", result2.getBarcodeFormat().toString());
@@ -414,7 +414,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
             } finally {
                 //_multiFormatReader.reset();
                 reader.reset();
-                RCTCameraViewFinder.barcodeScannerTaskLock = false;
+                RCTCameraOldViewFinder.barcodeScannerTaskLock = false;
                 return null;
             }
         }
@@ -460,8 +460,8 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
         mFingerSpacing = newDist;
         params.setZoom(zoom);
         _camera.setParameters(params);
-        if (RCTCamera.getInstance().isZoomEnabled()) {
-            ReactContext reactContext = RCTCameraModule.getReactContextSingleton();
+        if (RCTCameraOld.getInstance().isZoomEnabled()) {
+            ReactContext reactContext = RCTCameraOldModule.getReactContextSingleton();
             WritableMap callbackEvent = Arguments.createMap();
             callbackEvent.putInt("zoom", params.getZoom());
             callbackEvent.putInt("maxZoom", params.getMaxZoom());
@@ -492,7 +492,7 @@ class RCTCameraViewFinder extends TextureView implements TextureView.SurfaceText
             // Compute focus area rect.
             Camera.Area focusAreaFromMotionEvent;
             try {
-                focusAreaFromMotionEvent = RCTCameraUtils.computeFocusAreaFromMotionEvent(event, _surfaceTextureWidth, _surfaceTextureHeight);
+                focusAreaFromMotionEvent = RCTCameraOldUtils.computeFocusAreaFromMotionEvent(event, _surfaceTextureWidth, _surfaceTextureHeight);
             } catch (final RuntimeException e) {
                 e.printStackTrace();
                 return;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lwansbrough.RCTCamera;
+package com.lwansbrough.RCTCameraOld;
 
 
 import android.hardware.Camera;

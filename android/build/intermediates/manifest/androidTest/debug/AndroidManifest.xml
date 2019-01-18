@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lwansbrough.RCTCamera.test" >
+    package="com.lwansbrough.RCTCameraOld.test" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -10,8 +10,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.lwansbrough.RCTCamera.test"
-        android:targetPackage="com.lwansbrough.RCTCamera.test" />
+        android:label="Tests for com.lwansbrough.RCTCameraOld.test"
+        android:targetPackage="com.lwansbrough.RCTCameraOld.test" />
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />

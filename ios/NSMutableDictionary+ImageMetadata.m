@@ -1,6 +1,6 @@
 //
 //  NSMutableDictionary+ImageMetadata.m
-//  RCTCamera
+//  RCTCameraOld
 //
 //  Created by Jehan Tremback on 7/10/15.
 //

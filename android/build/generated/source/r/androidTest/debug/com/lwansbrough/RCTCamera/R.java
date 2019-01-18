@@ -4,7 +4,7 @@
  * aapt tool from the resource data it found.  It
  * should not be modified by hand.
  */
-package com.lwansbrough.RCTCamera;
+package com.lwansbrough.RCTCameraOld;
 
 public final class R {
 	public static final class anim {

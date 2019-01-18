@@ -148,8 +148,6 @@ export class Camera extends Component {
       isAuthorized: false,
       isRecording: false
     };
-
-    alert('test');
   }
 
   async componentWillMount() {
@@ -227,7 +225,7 @@ export class Camera extends Component {
     const style = [styles.base, this.props.style];
     const nativeProps = convertNativeProps(this.props);
 
-    return <RCTCamera ref={CAMERA_REF} {...nativeProps} />;
+    return <RCTCameraOld ref={CAMERA_REF} {...nativeProps} />;
   }
 
   _onBarCodeRead = (data) => {
@@ -286,8 +284,8 @@ export class Camera extends Component {
 
 export const constants = Camera.constants;
 
-//export const RCTCamera = requireNativeComponent('RCTCamera', Camera);
-export const RCTCamera = requireNativeComponent('RCTCamera', Camera);
+//export const RCTCameraOld = requireNativeComponent('RCTCameraOld', Camera);
+export const RCTCameraOld = requireNativeComponent('RCTCameraOld', Camera);
 
 const styles = StyleSheet.create({
   base: {},

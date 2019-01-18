@@ -1,6 +1,6 @@
 #import <React/RCTBridge.h>
-#import "RCTCamera.h"
-#import "RCTCameraManager.h"
+#import "RCTCameraOld.h"
+#import "RCTCameraOldManager.h"
 #import <React/RCTLog.h>
 #import <React/RCTUtils.h>
 #import <React/RCTEventDispatcher.h>
@@ -10,15 +10,15 @@
 #import <AVFoundation/AVFoundation.h>
 #import "CameraFocusSquare.h"
 
-@interface RCTCamera ()
+@interface RCTCameraOld ()
 
-@property (nonatomic, weak) RCTCameraManager *manager;
+@property (nonatomic, weak) RCTCameraOldManager *manager;
 @property (nonatomic, weak) RCTBridge *bridge;
-@property (nonatomic, strong) RCTCameraFocusSquare *camFocus;
+@property (nonatomic, strong) RCTCameraOldFocusSquare *camFocus;
 
 @end
 
-@implementation RCTCamera
+@implementation RCTCameraOld
 {
   BOOL _multipleTouches;
   BOOL _onFocusChanged;
@@ -31,7 +31,7 @@
 {
   [self.manager changeOrientation:orientation];
 
-  if (orientation == RCTCameraOrientationAuto) {
+  if (orientation == RCTCameraOldOrientationAuto) {
     [self changePreviewOrientation:[UIApplication sharedApplication].statusBarOrientation];
     [[NSNotificationCenter defaultCenter] addObserver:self  selector:@selector(orientationChanged:)    name:UIDeviceOrientationDidChangeNotification  object:nil];
   }
@@ -62,7 +62,7 @@
   }
 }
 
-- (id)initWithManager:(RCTCameraManager*)manager bridge:(RCTBridge *)bridge
+- (id)initWithManager:(RCTCameraOldManager*)manager bridge:(RCTBridge *)bridge
 {
   
   if ((self = [super init])) {
@@ -152,7 +152,7 @@
 
         // Show animated rectangle on the touched area
         if (_defaultOnFocusComponent) {
-            self.camFocus = [[RCTCameraFocusSquare alloc]initWithFrame:CGRectMake(touchPoint.x-40, touchPoint.y-40, 80, 80)];
+            self.camFocus = [[RCTCameraOldFocusSquare alloc]initWithFrame:CGRectMake(touchPoint.x-40, touchPoint.y-40, 80, 80)];
             [self.camFocus setBackgroundColor:[UIColor clearColor]];
             [self addSubview:self.camFocus];
             [self.camFocus setNeedsDisplay];

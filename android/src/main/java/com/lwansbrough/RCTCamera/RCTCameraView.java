@@ -2,7 +2,7 @@
  * Created by Fabrice Armisen (farmisen@gmail.com) on 1/3/16.
  */
 
-package com.lwansbrough.RCTCamera;
+package com.lwansbrough.RCTCameraOld;
 
 import android.content.Context;
 import android.hardware.SensorManager;
@@ -13,21 +13,21 @@ import android.view.View;
 
 import java.util.List;
 
-public class RCTCameraView extends ViewGroup {
+public class RCTCameraOldView extends ViewGroup {
     private final OrientationEventListener _orientationListener;
     private final Context _context;
-    private RCTCameraViewFinder _viewFinder = null;
+    private RCTCameraOldViewFinder _viewFinder = null;
     private int _actualDeviceOrientation = -1;
-    private int _aspect = RCTCameraModule.RCT_CAMERA_ASPECT_FIT;
-    private int _captureMode = RCTCameraModule.RCT_CAMERA_CAPTURE_MODE_STILL;
+    private int _aspect = RCTCameraOldModule.RCT_CAMERA_ASPECT_FIT;
+    private int _captureMode = RCTCameraOldModule.RCT_CAMERA_CAPTURE_MODE_STILL;
     private String _captureQuality = "high";
     private int _torchMode = -1;
     private int _flashMode = -1;
 
-    public RCTCameraView(Context context) {
+    public RCTCameraOldView(Context context) {
         super(context);
         this._context = context;
-        RCTCamera.createInstance(getDeviceOrientation(context));
+        RCTCameraOld.createInstance(getDeviceOrientation(context));
 
         _orientationListener = new OrientationEventListener(context, SensorManager.SENSOR_DELAY_NORMAL) {
             @Override
@@ -67,9 +67,9 @@ public class RCTCameraView extends ViewGroup {
     public void setCameraType(final int type) {
         if (null != this._viewFinder) {
             this._viewFinder.setCameraType(type);
-            RCTCamera.getInstance().adjustPreviewLayout(type);
+            RCTCameraOld.getInstance().adjustPreviewLayout(type);
         } else {
-            _viewFinder = new RCTCameraViewFinder(_context, type);
+            _viewFinder = new RCTCameraOldViewFinder(_context, type);
             if (-1 != this._flashMode) {
                 _viewFinder.setFlashMode(this._flashMode);
             }
@@ -109,29 +109,29 @@ public class RCTCameraView extends ViewGroup {
     }
 
     public void setOrientation(int orientation) {
-        RCTCamera.getInstance().setOrientation(orientation);
+        RCTCameraOld.getInstance().setOrientation(orientation);
         if (this._viewFinder != null) {
             layoutViewFinder();
         }
     }
 
     public void setBarcodeScannerEnabled(boolean barcodeScannerEnabled) {
-        RCTCamera.getInstance().setBarcodeScannerEnabled(barcodeScannerEnabled);
+        RCTCameraOld.getInstance().setBarcodeScannerEnabled(barcodeScannerEnabled);
     }
 
     public void setZoomEnabled(boolean zoomEnabled) {
-        RCTCamera.getInstance().setZoomEnabled(zoomEnabled);
+        RCTCameraOld.getInstance().setZoomEnabled(zoomEnabled);
     }
 
     public void setBarCodeTypes(List<String> types) {
-        RCTCamera.getInstance().setBarCodeTypes(types);
+        RCTCameraOld.getInstance().setBarCodeTypes(types);
     }
 
     private boolean setActualDeviceOrientation(Context context) {
         int actualDeviceOrientation = getDeviceOrientation(context);
         if (_actualDeviceOrientation != actualDeviceOrientation) {
             _actualDeviceOrientation = actualDeviceOrientation;
-            RCTCamera.getInstance().setActualDeviceOrientation(_actualDeviceOrientation);
+            RCTCameraOld.getInstance().setActualDeviceOrientation(_actualDeviceOrientation);
             return true;
         } else {
             return false;
@@ -156,7 +156,7 @@ public class RCTCameraView extends ViewGroup {
         int viewfinderHeight;
         double ratio;
         switch (this._aspect) {
-            case RCTCameraModule.RCT_CAMERA_ASPECT_FIT:
+            case RCTCameraOldModule.RCT_CAMERA_ASPECT_FIT:
                 ratio = this._viewFinder.getRatio();
                 if (ratio * height > width) {
                     viewfinderHeight = (int) (width / ratio);
@@ -166,7 +166,7 @@ public class RCTCameraView extends ViewGroup {
                     viewfinderHeight = (int) height;
                 }
                 break;
-            case RCTCameraModule.RCT_CAMERA_ASPECT_FILL:
+            case RCTCameraOldModule.RCT_CAMERA_ASPECT_FILL:
                 ratio = this._viewFinder.getRatio();
                 if (ratio * height < width) {
                     viewfinderHeight = (int) (width / ratio);

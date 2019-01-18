@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.lwansbrough.RCTCamera.test;
+package com.lwansbrough.RCTCameraOld.test;
 
 public final class R {
     public static final class anim {
@@ -2336,33 +2336,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.lwansbrough.RCTCamera.test:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.lwansbrough.RCTCamera.test:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.lwansbrough.RCTCamera.test:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.lwansbrough.RCTCamera.test:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.lwansbrough.RCTCamera.test:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.lwansbrough.RCTCamera.test:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.lwansbrough.RCTCamera.test:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.lwansbrough.RCTCamera.test:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.lwansbrough.RCTCamera.test:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.lwansbrough.RCTCamera.test:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.lwansbrough.RCTCamera.test:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.lwansbrough.RCTCamera.test:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.lwansbrough.RCTCamera.test:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.lwansbrough.RCTCamera.test:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.lwansbrough.RCTCamera.test:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.lwansbrough.RCTCamera.test:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.lwansbrough.RCTCamera.test:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.lwansbrough.RCTCamera.test:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.lwansbrough.RCTCamera.test:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.lwansbrough.RCTCamera.test:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.lwansbrough.RCTCamera.test:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.lwansbrough.RCTCamera.test:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.lwansbrough.RCTCamera.test:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.lwansbrough.RCTCamera.test:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.lwansbrough.RCTCamera.test:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.lwansbrough.RCTCamera.test:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.lwansbrough.RCTCamera.test:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.lwansbrough.RCTCameraOld.test:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.lwansbrough.RCTCameraOld.test:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.lwansbrough.RCTCameraOld.test:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.lwansbrough.RCTCameraOld.test:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.lwansbrough.RCTCameraOld.test:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.lwansbrough.RCTCameraOld.test:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.lwansbrough.RCTCameraOld.test:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.lwansbrough.RCTCameraOld.test:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.lwansbrough.RCTCameraOld.test:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.lwansbrough.RCTCameraOld.test:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.lwansbrough.RCTCameraOld.test:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.lwansbrough.RCTCameraOld.test:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.lwansbrough.RCTCameraOld.test:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.lwansbrough.RCTCameraOld.test:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.lwansbrough.RCTCameraOld.test:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.lwansbrough.RCTCameraOld.test:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.lwansbrough.RCTCameraOld.test:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.lwansbrough.RCTCameraOld.test:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.lwansbrough.RCTCameraOld.test:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.lwansbrough.RCTCameraOld.test:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.lwansbrough.RCTCameraOld.test:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.lwansbrough.RCTCameraOld.test:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.lwansbrough.RCTCameraOld.test:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.lwansbrough.RCTCameraOld.test:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.lwansbrough.RCTCameraOld.test:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.lwansbrough.RCTCameraOld.test:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.lwansbrough.RCTCameraOld.test:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2402,17 +2402,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010097
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#background}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:background
+          @attr name com.lwansbrough.RCTCameraOld.test:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2420,11 +2420,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:backgroundSplit
+          @attr name com.lwansbrough.RCTCameraOld.test:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2432,11 +2432,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:backgroundStacked
+          @attr name com.lwansbrough.RCTCameraOld.test:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2448,11 +2448,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetEnd
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2464,11 +2464,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetLeft
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2480,11 +2480,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetRight
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2496,21 +2496,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetStart
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:customNavigationLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2528,21 +2528,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:displayOptions
+          @attr name com.lwansbrough.RCTCameraOld.test:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:divider
+          @attr name com.lwansbrough.RCTCameraOld.test:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2554,11 +2554,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:elevation
+          @attr name com.lwansbrough.RCTCameraOld.test:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#height}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2570,11 +2570,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:height
+          @attr name com.lwansbrough.RCTCameraOld.test:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2584,51 +2584,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:hideOnContentScroll
+          @attr name com.lwansbrough.RCTCameraOld.test:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:homeAsUpIndicator
+          @attr name com.lwansbrough.RCTCameraOld.test:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:homeLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:icon
+          @attr name com.lwansbrough.RCTCameraOld.test:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:indeterminateProgressStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2640,21 +2640,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:itemPadding
+          @attr name com.lwansbrough.RCTCameraOld.test:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:logo
+          @attr name com.lwansbrough.RCTCameraOld.test:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2668,21 +2668,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:navigationMode
+          @attr name com.lwansbrough.RCTCameraOld.test:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:popupTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2694,21 +2694,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:progressBarPadding
+          @attr name com.lwansbrough.RCTCameraOld.test:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:progressBarStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2718,21 +2718,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:subtitle
+          @attr name com.lwansbrough.RCTCameraOld.test:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:subtitleTextStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#title}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2742,17 +2742,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:title
+          @attr name com.lwansbrough.RCTCameraOld.test:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:titleTextStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2804,12 +2804,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.lwansbrough.RCTCamera.test:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.lwansbrough.RCTCamera.test:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.lwansbrough.RCTCamera.test:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.lwansbrough.RCTCamera.test:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.lwansbrough.RCTCamera.test:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.lwansbrough.RCTCamera.test:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.lwansbrough.RCTCameraOld.test:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.lwansbrough.RCTCameraOld.test:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.lwansbrough.RCTCameraOld.test:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.lwansbrough.RCTCameraOld.test:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.lwansbrough.RCTCameraOld.test:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.lwansbrough.RCTCameraOld.test:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2823,17 +2823,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#background}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:background
+          @attr name com.lwansbrough.RCTCameraOld.test:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2841,21 +2841,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:backgroundSplit
+          @attr name com.lwansbrough.RCTCameraOld.test:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:closeItemLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#height}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2867,27 +2867,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:height
+          @attr name com.lwansbrough.RCTCameraOld.test:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:subtitleTextStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:titleTextStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2896,8 +2896,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.lwansbrough.RCTCamera.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.lwansbrough.RCTCamera.test:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.lwansbrough.RCTCameraOld.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.lwansbrough.RCTCameraOld.test:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2906,17 +2906,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:expandActivityOverflowButtonDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2926,7 +2926,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:initialActivityCount
+          @attr name com.lwansbrough.RCTCameraOld.test:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2936,11 +2936,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.lwansbrough.RCTCamera.test:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.lwansbrough.RCTCamera.test:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.lwansbrough.RCTCamera.test:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.lwansbrough.RCTCamera.test:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.lwansbrough.RCTCamera.test:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.lwansbrough.RCTCameraOld.test:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.lwansbrough.RCTCameraOld.test:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.lwansbrough.RCTCameraOld.test:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.lwansbrough.RCTCameraOld.test:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.lwansbrough.RCTCameraOld.test:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2960,53 +2960,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonPanelSideLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:listItemLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:listLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:multiChoiceItemLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:singleChoiceItemLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3016,7 +3016,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.lwansbrough.RCTCamera.test:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.lwansbrough.RCTCameraOld.test:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3031,14 +3031,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAllCaps
+          @attr name com.lwansbrough.RCTCameraOld.test:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CompoundButton.
@@ -3048,8 +3048,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.lwansbrough.RCTCamera.test:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.lwansbrough.RCTCamera.test:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.lwansbrough.RCTCameraOld.test:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.lwansbrough.RCTCameraOld.test:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3065,7 +3065,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3076,11 +3076,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:buttonTint
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3096,7 +3096,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:buttonTintMode
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3105,14 +3105,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.lwansbrough.RCTCamera.test:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.lwansbrough.RCTCamera.test:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.lwansbrough.RCTCamera.test:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.lwansbrough.RCTCamera.test:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.lwansbrough.RCTCamera.test:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.lwansbrough.RCTCamera.test:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.lwansbrough.RCTCamera.test:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.lwansbrough.RCTCamera.test:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.lwansbrough.RCTCameraOld.test:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.lwansbrough.RCTCameraOld.test:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.lwansbrough.RCTCameraOld.test:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.lwansbrough.RCTCameraOld.test:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.lwansbrough.RCTCameraOld.test:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.lwansbrough.RCTCameraOld.test:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.lwansbrough.RCTCameraOld.test:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.lwansbrough.RCTCameraOld.test:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3128,7 +3128,7 @@ containing a value of this type.
             0x7f01002b, 0x7f01002c, 0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3140,11 +3140,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:arrowHeadLength
+          @attr name com.lwansbrough.RCTCameraOld.test:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3156,11 +3156,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:arrowShaftLength
+          @attr name com.lwansbrough.RCTCameraOld.test:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3172,11 +3172,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:barLength
+          @attr name com.lwansbrough.RCTCameraOld.test:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#color}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3187,11 +3187,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:color
+          @attr name com.lwansbrough.RCTCameraOld.test:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3203,11 +3203,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:drawableSize
+          @attr name com.lwansbrough.RCTCameraOld.test:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3219,11 +3219,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:gapBetweenBars
+          @attr name com.lwansbrough.RCTCameraOld.test:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3233,11 +3233,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:spinBars
+          @attr name com.lwansbrough.RCTCameraOld.test:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3249,7 +3249,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:thickness
+          @attr name com.lwansbrough.RCTCameraOld.test:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a GenericDraweeView.
@@ -3258,30 +3258,30 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType com.lwansbrough.RCTCamera.test:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_backgroundImage com.lwansbrough.RCTCamera.test:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_fadeDuration com.lwansbrough.RCTCamera.test:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImage com.lwansbrough.RCTCamera.test:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType com.lwansbrough.RCTCamera.test:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_overlayImage com.lwansbrough.RCTCamera.test:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImage com.lwansbrough.RCTCamera.test:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType com.lwansbrough.RCTCamera.test:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage com.lwansbrough.RCTCamera.test:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval com.lwansbrough.RCTCamera.test:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImage com.lwansbrough.RCTCamera.test:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType com.lwansbrough.RCTCamera.test:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImage com.lwansbrough.RCTCamera.test:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType com.lwansbrough.RCTCamera.test:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundAsCircle com.lwansbrough.RCTCamera.test:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft com.lwansbrough.RCTCamera.test:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomRight com.lwansbrough.RCTCamera.test:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopLeft com.lwansbrough.RCTCamera.test:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopRight com.lwansbrough.RCTCamera.test:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor com.lwansbrough.RCTCamera.test:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius com.lwansbrough.RCTCamera.test:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor com.lwansbrough.RCTCamera.test:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth com.lwansbrough.RCTCamera.test:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio com.lwansbrough.RCTCamera.test:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType com.lwansbrough.RCTCameraOld.test:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_backgroundImage com.lwansbrough.RCTCameraOld.test:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_fadeDuration com.lwansbrough.RCTCameraOld.test:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImage com.lwansbrough.RCTCameraOld.test:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType com.lwansbrough.RCTCameraOld.test:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_overlayImage com.lwansbrough.RCTCameraOld.test:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImage com.lwansbrough.RCTCameraOld.test:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType com.lwansbrough.RCTCameraOld.test:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage com.lwansbrough.RCTCameraOld.test:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval com.lwansbrough.RCTCameraOld.test:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImage com.lwansbrough.RCTCameraOld.test:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType com.lwansbrough.RCTCameraOld.test:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImage com.lwansbrough.RCTCameraOld.test:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType com.lwansbrough.RCTCameraOld.test:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundAsCircle com.lwansbrough.RCTCameraOld.test:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft com.lwansbrough.RCTCameraOld.test:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomRight com.lwansbrough.RCTCameraOld.test:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopLeft com.lwansbrough.RCTCameraOld.test:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopRight com.lwansbrough.RCTCameraOld.test:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor com.lwansbrough.RCTCameraOld.test:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius com.lwansbrough.RCTCameraOld.test:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor com.lwansbrough.RCTCameraOld.test:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth com.lwansbrough.RCTCameraOld.test:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio com.lwansbrough.RCTCameraOld.test:viewAspectRatio}</code></td><td></td></tr>
            </table>
            @see #GenericDraweeView_actualImageScaleType
            @see #GenericDraweeView_backgroundImage
@@ -3317,7 +3317,7 @@ containing a value of this type.
             0x7f010043, 0x7f010044, 0x7f010045, 0x7f010046
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actualImageScaleType}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actualImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3337,21 +3337,21 @@ containing a value of this type.
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:actualImageScaleType
+          @attr name com.lwansbrough.RCTCameraOld.test:actualImageScaleType
         */
         public static final int GenericDraweeView_actualImageScaleType = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#backgroundImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#backgroundImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:backgroundImage
+          @attr name com.lwansbrough.RCTCameraOld.test:backgroundImage
         */
         public static final int GenericDraweeView_backgroundImage = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#fadeDuration}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#fadeDuration}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3361,21 +3361,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:fadeDuration
+          @attr name com.lwansbrough.RCTCameraOld.test:fadeDuration
         */
         public static final int GenericDraweeView_fadeDuration = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#failureImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#failureImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:failureImage
+          @attr name com.lwansbrough.RCTCameraOld.test:failureImage
         */
         public static final int GenericDraweeView_failureImage = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#failureImageScaleType}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#failureImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3395,31 +3395,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:failureImageScaleType
+          @attr name com.lwansbrough.RCTCameraOld.test:failureImageScaleType
         */
         public static final int GenericDraweeView_failureImageScaleType = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#overlayImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#overlayImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:overlayImage
+          @attr name com.lwansbrough.RCTCameraOld.test:overlayImage
         */
         public static final int GenericDraweeView_overlayImage = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#placeholderImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#placeholderImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:placeholderImage
+          @attr name com.lwansbrough.RCTCameraOld.test:placeholderImage
         */
         public static final int GenericDraweeView_placeholderImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#placeholderImageScaleType}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#placeholderImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3439,21 +3439,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:placeholderImageScaleType
+          @attr name com.lwansbrough.RCTCameraOld.test:placeholderImageScaleType
         */
         public static final int GenericDraweeView_placeholderImageScaleType = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#pressedStateOverlayImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#pressedStateOverlayImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:pressedStateOverlayImage
+          @attr name com.lwansbrough.RCTCameraOld.test:pressedStateOverlayImage
         */
         public static final int GenericDraweeView_pressedStateOverlayImage = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#progressBarAutoRotateInterval}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#progressBarAutoRotateInterval}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3463,21 +3463,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:progressBarAutoRotateInterval
+          @attr name com.lwansbrough.RCTCameraOld.test:progressBarAutoRotateInterval
         */
         public static final int GenericDraweeView_progressBarAutoRotateInterval = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#progressBarImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#progressBarImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:progressBarImage
+          @attr name com.lwansbrough.RCTCameraOld.test:progressBarImage
         */
         public static final int GenericDraweeView_progressBarImage = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#progressBarImageScaleType}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#progressBarImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3497,21 +3497,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:progressBarImageScaleType
+          @attr name com.lwansbrough.RCTCameraOld.test:progressBarImageScaleType
         */
         public static final int GenericDraweeView_progressBarImageScaleType = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#retryImage}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#retryImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:retryImage
+          @attr name com.lwansbrough.RCTCameraOld.test:retryImage
         */
         public static final int GenericDraweeView_retryImage = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#retryImageScaleType}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#retryImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3531,11 +3531,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:retryImageScaleType
+          @attr name com.lwansbrough.RCTCameraOld.test:retryImageScaleType
         */
         public static final int GenericDraweeView_retryImageScaleType = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundAsCircle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundAsCircle}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3545,11 +3545,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundAsCircle
+          @attr name com.lwansbrough.RCTCameraOld.test:roundAsCircle
         */
         public static final int GenericDraweeView_roundAsCircle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundBottomLeft}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundBottomLeft}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3559,11 +3559,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundBottomLeft
+          @attr name com.lwansbrough.RCTCameraOld.test:roundBottomLeft
         */
         public static final int GenericDraweeView_roundBottomLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundBottomRight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundBottomRight}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3573,11 +3573,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundBottomRight
+          @attr name com.lwansbrough.RCTCameraOld.test:roundBottomRight
         */
         public static final int GenericDraweeView_roundBottomRight = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundTopLeft}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundTopLeft}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3587,11 +3587,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundTopLeft
+          @attr name com.lwansbrough.RCTCameraOld.test:roundTopLeft
         */
         public static final int GenericDraweeView_roundTopLeft = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundTopRight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundTopRight}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3601,11 +3601,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundTopRight
+          @attr name com.lwansbrough.RCTCameraOld.test:roundTopRight
         */
         public static final int GenericDraweeView_roundTopRight = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundWithOverlayColor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundWithOverlayColor}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3616,11 +3616,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundWithOverlayColor
+          @attr name com.lwansbrough.RCTCameraOld.test:roundWithOverlayColor
         */
         public static final int GenericDraweeView_roundWithOverlayColor = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundedCornerRadius}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundedCornerRadius}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3632,11 +3632,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundedCornerRadius
+          @attr name com.lwansbrough.RCTCameraOld.test:roundedCornerRadius
         */
         public static final int GenericDraweeView_roundedCornerRadius = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundingBorderColor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundingBorderColor}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3647,11 +3647,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundingBorderColor
+          @attr name com.lwansbrough.RCTCameraOld.test:roundingBorderColor
         */
         public static final int GenericDraweeView_roundingBorderColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#roundingBorderWidth}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#roundingBorderWidth}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3663,11 +3663,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:roundingBorderWidth
+          @attr name com.lwansbrough.RCTCameraOld.test:roundingBorderWidth
         */
         public static final int GenericDraweeView_roundingBorderWidth = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#viewAspectRatio}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#viewAspectRatio}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3677,7 +3677,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:viewAspectRatio
+          @attr name com.lwansbrough.RCTCameraOld.test:viewAspectRatio
         */
         public static final int GenericDraweeView_viewAspectRatio = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3691,10 +3691,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.lwansbrough.RCTCamera.test:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.lwansbrough.RCTCamera.test:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.lwansbrough.RCTCamera.test:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.lwansbrough.RCTCamera.test:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.lwansbrough.RCTCameraOld.test:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.lwansbrough.RCTCameraOld.test:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.lwansbrough.RCTCameraOld.test:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.lwansbrough.RCTCameraOld.test:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3742,17 +3742,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:divider
+          @attr name com.lwansbrough.RCTCameraOld.test:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3764,11 +3764,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:dividerPadding
+          @attr name com.lwansbrough.RCTCameraOld.test:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3778,11 +3778,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:measureWithLargestChild
+          @attr name com.lwansbrough.RCTCameraOld.test:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3797,7 +3797,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:showDividers
+          @attr name com.lwansbrough.RCTCameraOld.test:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3936,9 +3936,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.lwansbrough.RCTCamera.test:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.lwansbrough.RCTCamera.test:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.lwansbrough.RCTCamera.test:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.lwansbrough.RCTCameraOld.test:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.lwansbrough.RCTCameraOld.test:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.lwansbrough.RCTCameraOld.test:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3952,7 +3952,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.lwansbrough.RCTCamera.test:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.lwansbrough.RCTCameraOld.test:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3980,17 +3980,17 @@ containing a value of this type.
             0x7f01004d
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4000,11 +4000,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:actionProviderClass
+          @attr name com.lwansbrough.RCTCameraOld.test:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4014,7 +4014,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:actionViewClass
+          @attr name com.lwansbrough.RCTCameraOld.test:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -4096,7 +4096,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4112,7 +4112,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:showAsAction
+          @attr name com.lwansbrough.RCTCameraOld.test:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4128,7 +4128,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.lwansbrough.RCTCamera.test:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.lwansbrough.RCTCameraOld.test:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4186,7 +4186,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -4196,7 +4196,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:preserveIconSpacing
+          @attr name com.lwansbrough.RCTCameraOld.test:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4206,7 +4206,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.lwansbrough.RCTCamera.test:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.lwansbrough.RCTCameraOld.test:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4221,7 +4221,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -4231,7 +4231,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:overlapAnchor
+          @attr name com.lwansbrough.RCTCameraOld.test:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4240,7 +4240,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.lwansbrough.RCTCamera.test:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.lwansbrough.RCTCameraOld.test:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4248,7 +4248,7 @@ containing a value of this type.
             0x7f010050
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -4258,7 +4258,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:state_above_anchor
+          @attr name com.lwansbrough.RCTCameraOld.test:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -4268,10 +4268,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.lwansbrough.RCTCamera.test:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.lwansbrough.RCTCamera.test:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.lwansbrough.RCTCamera.test:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.lwansbrough.RCTCamera.test:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.lwansbrough.RCTCameraOld.test:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.lwansbrough.RCTCameraOld.test:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.lwansbrough.RCTCameraOld.test:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.lwansbrough.RCTCameraOld.test:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -4290,7 +4290,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4300,11 +4300,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:layoutManager
+          @attr name com.lwansbrough.RCTCameraOld.test:layoutManager
         */
         public static final int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4314,11 +4314,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:reverseLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4328,11 +4328,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:spanCount
+          @attr name com.lwansbrough.RCTCameraOld.test:spanCount
         */
         public static final int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4342,7 +4342,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:stackFromEnd
+          @attr name com.lwansbrough.RCTCameraOld.test:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a SearchView.
@@ -4355,19 +4355,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.lwansbrough.RCTCamera.test:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.lwansbrough.RCTCamera.test:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.lwansbrough.RCTCamera.test:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.lwansbrough.RCTCamera.test:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.lwansbrough.RCTCamera.test:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.lwansbrough.RCTCamera.test:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.lwansbrough.RCTCamera.test:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.lwansbrough.RCTCamera.test:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.lwansbrough.RCTCamera.test:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.lwansbrough.RCTCamera.test:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.lwansbrough.RCTCamera.test:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.lwansbrough.RCTCamera.test:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.lwansbrough.RCTCamera.test:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.lwansbrough.RCTCameraOld.test:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.lwansbrough.RCTCameraOld.test:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.lwansbrough.RCTCameraOld.test:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.lwansbrough.RCTCameraOld.test:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.lwansbrough.RCTCameraOld.test:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.lwansbrough.RCTCameraOld.test:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.lwansbrough.RCTCameraOld.test:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.lwansbrough.RCTCameraOld.test:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.lwansbrough.RCTCameraOld.test:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.lwansbrough.RCTCameraOld.test:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.lwansbrough.RCTCameraOld.test:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.lwansbrough.RCTCameraOld.test:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.lwansbrough.RCTCameraOld.test:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4419,27 +4419,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:closeIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:commitIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4449,21 +4449,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:defaultQueryHint
+          @attr name com.lwansbrough.RCTCameraOld.test:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:goIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4473,31 +4473,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:iconifiedByDefault
+          @attr name com.lwansbrough.RCTCameraOld.test:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:layout
+          @attr name com.lwansbrough.RCTCameraOld.test:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:queryBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4507,57 +4507,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:queryHint
+          @attr name com.lwansbrough.RCTCameraOld.test:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:searchHintIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:searchIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:submitBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:suggestionRowLayout
+          @attr name com.lwansbrough.RCTCameraOld.test:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:voiceIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -4569,7 +4569,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.lwansbrough.RCTCamera.test:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.lwansbrough.RCTCameraOld.test:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -4598,13 +4598,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:popupTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -4616,13 +4616,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.lwansbrough.RCTCamera.test:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.lwansbrough.RCTCamera.test:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.lwansbrough.RCTCamera.test:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.lwansbrough.RCTCamera.test:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.lwansbrough.RCTCamera.test:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.lwansbrough.RCTCamera.test:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.lwansbrough.RCTCamera.test:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.lwansbrough.RCTCameraOld.test:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.lwansbrough.RCTCameraOld.test:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.lwansbrough.RCTCameraOld.test:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.lwansbrough.RCTCameraOld.test:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.lwansbrough.RCTCameraOld.test:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.lwansbrough.RCTCameraOld.test:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.lwansbrough.RCTCameraOld.test:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4659,7 +4659,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4669,11 +4669,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:showText
+          @attr name com.lwansbrough.RCTCameraOld.test:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4683,11 +4683,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:splitTrack
+          @attr name com.lwansbrough.RCTCameraOld.test:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4699,11 +4699,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:switchMinWidth
+          @attr name com.lwansbrough.RCTCameraOld.test:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4715,21 +4715,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:switchPadding
+          @attr name com.lwansbrough.RCTCameraOld.test:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:switchTextAppearance
+          @attr name com.lwansbrough.RCTCameraOld.test:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4741,17 +4741,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:thumbTextPadding
+          @attr name com.lwansbrough.RCTCameraOld.test:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#track}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:track
+          @attr name com.lwansbrough.RCTCameraOld.test:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4764,7 +4764,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.lwansbrough.RCTCamera.test:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.lwansbrough.RCTCameraOld.test:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -4801,14 +4801,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAllCaps
+          @attr name com.lwansbrough.RCTCameraOld.test:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
@@ -4817,114 +4817,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.lwansbrough.RCTCamera.test:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.lwansbrough.RCTCamera.test:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.lwansbrough.RCTCamera.test:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.lwansbrough.RCTCamera.test:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.lwansbrough.RCTCamera.test:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.lwansbrough.RCTCamera.test:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.lwansbrough.RCTCamera.test:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.lwansbrough.RCTCamera.test:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.lwansbrough.RCTCamera.test:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.lwansbrough.RCTCamera.test:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.lwansbrough.RCTCamera.test:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.lwansbrough.RCTCamera.test:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.lwansbrough.RCTCamera.test:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.lwansbrough.RCTCamera.test:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.lwansbrough.RCTCamera.test:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.lwansbrough.RCTCamera.test:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.lwansbrough.RCTCamera.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.lwansbrough.RCTCamera.test:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.lwansbrough.RCTCamera.test:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.lwansbrough.RCTCamera.test:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.lwansbrough.RCTCamera.test:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.lwansbrough.RCTCamera.test:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.lwansbrough.RCTCamera.test:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.lwansbrough.RCTCamera.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.lwansbrough.RCTCamera.test:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.lwansbrough.RCTCamera.test:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.lwansbrough.RCTCamera.test:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.lwansbrough.RCTCamera.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.lwansbrough.RCTCamera.test:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.lwansbrough.RCTCamera.test:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.lwansbrough.RCTCamera.test:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.lwansbrough.RCTCamera.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.lwansbrough.RCTCamera.test:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.lwansbrough.RCTCamera.test:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.lwansbrough.RCTCamera.test:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.lwansbrough.RCTCameraOld.test:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.lwansbrough.RCTCameraOld.test:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.lwansbrough.RCTCameraOld.test:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.lwansbrough.RCTCameraOld.test:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.lwansbrough.RCTCameraOld.test:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.lwansbrough.RCTCameraOld.test:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.lwansbrough.RCTCameraOld.test:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.lwansbrough.RCTCameraOld.test:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.lwansbrough.RCTCameraOld.test:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.lwansbrough.RCTCameraOld.test:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.lwansbrough.RCTCameraOld.test:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.lwansbrough.RCTCameraOld.test:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.lwansbrough.RCTCameraOld.test:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.lwansbrough.RCTCameraOld.test:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.lwansbrough.RCTCameraOld.test:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.lwansbrough.RCTCameraOld.test:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.lwansbrough.RCTCameraOld.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.lwansbrough.RCTCameraOld.test:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.lwansbrough.RCTCameraOld.test:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.lwansbrough.RCTCameraOld.test:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.lwansbrough.RCTCameraOld.test:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.lwansbrough.RCTCameraOld.test:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.lwansbrough.RCTCameraOld.test:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.lwansbrough.RCTCameraOld.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.lwansbrough.RCTCameraOld.test:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.lwansbrough.RCTCameraOld.test:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.lwansbrough.RCTCameraOld.test:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.lwansbrough.RCTCameraOld.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.lwansbrough.RCTCameraOld.test:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.lwansbrough.RCTCameraOld.test:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.lwansbrough.RCTCameraOld.test:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.lwansbrough.RCTCameraOld.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.lwansbrough.RCTCameraOld.test:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.lwansbrough.RCTCameraOld.test:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.lwansbrough.RCTCameraOld.test:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.lwansbrough.RCTCamera.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.lwansbrough.RCTCamera.test:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.lwansbrough.RCTCamera.test:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.lwansbrough.RCTCamera.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.lwansbrough.RCTCamera.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.lwansbrough.RCTCamera.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.lwansbrough.RCTCamera.test:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.lwansbrough.RCTCamera.test:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.lwansbrough.RCTCamera.test:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.lwansbrough.RCTCamera.test:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.lwansbrough.RCTCamera.test:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.lwansbrough.RCTCamera.test:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.lwansbrough.RCTCamera.test:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.lwansbrough.RCTCamera.test:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.lwansbrough.RCTCamera.test:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.lwansbrough.RCTCamera.test:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.lwansbrough.RCTCamera.test:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.lwansbrough.RCTCamera.test:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.lwansbrough.RCTCamera.test:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.lwansbrough.RCTCamera.test:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.lwansbrough.RCTCamera.test:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.lwansbrough.RCTCamera.test:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.lwansbrough.RCTCamera.test:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.lwansbrough.RCTCamera.test:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.lwansbrough.RCTCamera.test:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.lwansbrough.RCTCamera.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.lwansbrough.RCTCamera.test:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.lwansbrough.RCTCamera.test:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.lwansbrough.RCTCamera.test:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.lwansbrough.RCTCamera.test:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.lwansbrough.RCTCamera.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.lwansbrough.RCTCamera.test:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.lwansbrough.RCTCamera.test:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.lwansbrough.RCTCamera.test:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.lwansbrough.RCTCamera.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.lwansbrough.RCTCamera.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.lwansbrough.RCTCamera.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.lwansbrough.RCTCamera.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.lwansbrough.RCTCamera.test:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.lwansbrough.RCTCamera.test:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.lwansbrough.RCTCamera.test:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.lwansbrough.RCTCamera.test:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.lwansbrough.RCTCamera.test:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.lwansbrough.RCTCamera.test:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.lwansbrough.RCTCamera.test:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.lwansbrough.RCTCamera.test:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.lwansbrough.RCTCamera.test:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.lwansbrough.RCTCamera.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.lwansbrough.RCTCamera.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.lwansbrough.RCTCamera.test:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.lwansbrough.RCTCamera.test:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.lwansbrough.RCTCamera.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.lwansbrough.RCTCamera.test:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.lwansbrough.RCTCamera.test:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.lwansbrough.RCTCamera.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.lwansbrough.RCTCamera.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.lwansbrough.RCTCamera.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.lwansbrough.RCTCamera.test:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.lwansbrough.RCTCamera.test:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.lwansbrough.RCTCamera.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.lwansbrough.RCTCamera.test:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.lwansbrough.RCTCamera.test:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.lwansbrough.RCTCamera.test:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.lwansbrough.RCTCamera.test:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.lwansbrough.RCTCamera.test:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.lwansbrough.RCTCamera.test:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.lwansbrough.RCTCamera.test:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.lwansbrough.RCTCamera.test:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.lwansbrough.RCTCamera.test:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.lwansbrough.RCTCamera.test:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.lwansbrough.RCTCamera.test:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.lwansbrough.RCTCameraOld.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.lwansbrough.RCTCameraOld.test:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.lwansbrough.RCTCameraOld.test:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.lwansbrough.RCTCameraOld.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.lwansbrough.RCTCameraOld.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.lwansbrough.RCTCameraOld.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.lwansbrough.RCTCameraOld.test:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.lwansbrough.RCTCameraOld.test:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.lwansbrough.RCTCameraOld.test:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.lwansbrough.RCTCameraOld.test:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.lwansbrough.RCTCameraOld.test:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.lwansbrough.RCTCameraOld.test:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.lwansbrough.RCTCameraOld.test:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.lwansbrough.RCTCameraOld.test:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.lwansbrough.RCTCameraOld.test:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.lwansbrough.RCTCameraOld.test:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.lwansbrough.RCTCameraOld.test:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.lwansbrough.RCTCameraOld.test:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.lwansbrough.RCTCameraOld.test:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground com.lwansbrough.RCTCameraOld.test:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.lwansbrough.RCTCameraOld.test:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.lwansbrough.RCTCameraOld.test:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.lwansbrough.RCTCameraOld.test:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.lwansbrough.RCTCameraOld.test:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.lwansbrough.RCTCameraOld.test:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.lwansbrough.RCTCameraOld.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.lwansbrough.RCTCameraOld.test:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.lwansbrough.RCTCameraOld.test:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.lwansbrough.RCTCameraOld.test:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.lwansbrough.RCTCameraOld.test:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.lwansbrough.RCTCameraOld.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.lwansbrough.RCTCameraOld.test:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.lwansbrough.RCTCameraOld.test:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.lwansbrough.RCTCameraOld.test:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.lwansbrough.RCTCameraOld.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.lwansbrough.RCTCameraOld.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.lwansbrough.RCTCameraOld.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.lwansbrough.RCTCameraOld.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.lwansbrough.RCTCameraOld.test:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.lwansbrough.RCTCameraOld.test:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.lwansbrough.RCTCameraOld.test:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.lwansbrough.RCTCameraOld.test:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.lwansbrough.RCTCameraOld.test:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.lwansbrough.RCTCameraOld.test:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.lwansbrough.RCTCameraOld.test:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.lwansbrough.RCTCameraOld.test:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.lwansbrough.RCTCameraOld.test:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.lwansbrough.RCTCameraOld.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.lwansbrough.RCTCameraOld.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.lwansbrough.RCTCameraOld.test:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.lwansbrough.RCTCameraOld.test:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.lwansbrough.RCTCameraOld.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.lwansbrough.RCTCameraOld.test:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.lwansbrough.RCTCameraOld.test:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.lwansbrough.RCTCameraOld.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.lwansbrough.RCTCameraOld.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.lwansbrough.RCTCameraOld.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.lwansbrough.RCTCameraOld.test:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.lwansbrough.RCTCameraOld.test:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.lwansbrough.RCTCameraOld.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.lwansbrough.RCTCameraOld.test:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.lwansbrough.RCTCameraOld.test:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.lwansbrough.RCTCameraOld.test:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.lwansbrough.RCTCameraOld.test:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.lwansbrough.RCTCameraOld.test:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.lwansbrough.RCTCameraOld.test:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.lwansbrough.RCTCameraOld.test:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.lwansbrough.RCTCameraOld.test:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.lwansbrough.RCTCameraOld.test:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.lwansbrough.RCTCameraOld.test:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.lwansbrough.RCTCameraOld.test:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5065,37 +5065,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100cf, 0x7f0100d0, 0x7f0100d1, 0x7f0100d2
         };
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarDivider
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarItemBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarPopupTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5115,111 +5115,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:actionBarSize
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarSplitStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarTabBarStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarTabStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarTabTextStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionBarWidgetTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionDropDownStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionMenuTextAppearance
+          @attr name com.lwansbrough.RCTCameraOld.test:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5227,181 +5227,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionMenuTextColor
+          @attr name com.lwansbrough.RCTCameraOld.test:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeCloseButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeCloseDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeCopyDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeCutDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeFindDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModePasteDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModePopupWindowStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeSelectAllDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeShareDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeSplitBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionModeWebSearchDrawable
+          @attr name com.lwansbrough.RCTCameraOld.test:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionOverflowButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:actionOverflowMenuStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:activityChooserViewStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:alertDialogButtonGroupStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5411,27 +5411,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:alertDialogCenterButtons
+          @attr name com.lwansbrough.RCTCameraOld.test:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 92;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:alertDialogStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:alertDialogTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 93;
         /**
@@ -5447,117 +5447,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:autoCompleteTextViewStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:borderlessButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonBarButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonBarNegativeButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonBarNeutralButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonBarPositiveButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonBarStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonStyle
         */
         public static final int Theme_buttonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:buttonStyleSmall
+          @attr name com.lwansbrough.RCTCameraOld.test:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 100;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:checkboxStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:checkedTextViewStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5568,11 +5568,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorAccent
+          @attr name com.lwansbrough.RCTCameraOld.test:colorAccent
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5583,11 +5583,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorButtonNormal
+          @attr name com.lwansbrough.RCTCameraOld.test:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5598,11 +5598,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorControlActivated
+          @attr name com.lwansbrough.RCTCameraOld.test:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5613,11 +5613,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorControlHighlight
+          @attr name com.lwansbrough.RCTCameraOld.test:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5628,11 +5628,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorControlNormal
+          @attr name com.lwansbrough.RCTCameraOld.test:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5643,11 +5643,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorPrimary
+          @attr name com.lwansbrough.RCTCameraOld.test:colorPrimary
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5658,11 +5658,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorPrimaryDark
+          @attr name com.lwansbrough.RCTCameraOld.test:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5673,21 +5673,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:colorSwitchThumbNormal
+          @attr name com.lwansbrough.RCTCameraOld.test:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:controlBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:controlBackground
         */
         public static final int Theme_controlBackground = 89;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5699,51 +5699,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:dialogPreferredPadding
+          @attr name com.lwansbrough.RCTCameraOld.test:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:dialogTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:dividerHorizontal
+          @attr name com.lwansbrough.RCTCameraOld.test:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:dividerVertical
+          @attr name com.lwansbrough.RCTCameraOld.test:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:dropDownListViewStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5755,21 +5755,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:dropdownListPreferredItemHeight
+          @attr name com.lwansbrough.RCTCameraOld.test:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:editTextBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5777,61 +5777,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:editTextColor
+          @attr name com.lwansbrough.RCTCameraOld.test:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:editTextStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:editTextStyle
         */
         public static final int Theme_editTextStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:homeAsUpIndicator
+          @attr name com.lwansbrough.RCTCameraOld.test:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:listChoiceBackgroundIndicator
+          @attr name com.lwansbrough.RCTCameraOld.test:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:listDividerAlertDialog
+          @attr name com.lwansbrough.RCTCameraOld.test:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:listPopupWindowStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5843,11 +5843,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:listPreferredItemHeight
+          @attr name com.lwansbrough.RCTCameraOld.test:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5859,11 +5859,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:listPreferredItemHeightLarge
+          @attr name com.lwansbrough.RCTCameraOld.test:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5875,11 +5875,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:listPreferredItemHeightSmall
+          @attr name com.lwansbrough.RCTCameraOld.test:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5891,11 +5891,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:listPreferredItemPaddingLeft
+          @attr name com.lwansbrough.RCTCameraOld.test:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5907,31 +5907,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:listPreferredItemPaddingRight
+          @attr name com.lwansbrough.RCTCameraOld.test:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:panelBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:panelBackground
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:panelMenuListTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5943,171 +5943,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:panelMenuListWidth
+          @attr name com.lwansbrough.RCTCameraOld.test:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:popupMenuStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:popupWindowStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:radioButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:ratingBarStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:searchViewStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:selectableItemBackground
+          @attr name com.lwansbrough.RCTCameraOld.test:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:selectableItemBackgroundBorderless
+          @attr name com.lwansbrough.RCTCameraOld.test:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:spinnerDropDownItemStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:spinnerStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:switchStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:switchStyle
         */
         public static final int Theme_switchStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAppearanceLargePopupMenu
+          @attr name com.lwansbrough.RCTCameraOld.test:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAppearanceListItem
+          @attr name com.lwansbrough.RCTCameraOld.test:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAppearanceListItemSmall
+          @attr name com.lwansbrough.RCTCameraOld.test:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAppearanceSearchResultSubtitle
+          @attr name com.lwansbrough.RCTCameraOld.test:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAppearanceSearchResultTitle
+          @attr name com.lwansbrough.RCTCameraOld.test:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textAppearanceSmallPopupMenu
+          @attr name com.lwansbrough.RCTCameraOld.test:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6115,11 +6115,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textColorAlertDialogListItem
+          @attr name com.lwansbrough.RCTCameraOld.test:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 94;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6127,31 +6127,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:textColorSearchUrl
+          @attr name com.lwansbrough.RCTCameraOld.test:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:toolbarNavigationButtonStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:toolbarStyle
+          @attr name com.lwansbrough.RCTCameraOld.test:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6161,11 +6161,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowActionBar
+          @attr name com.lwansbrough.RCTCameraOld.test:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6175,11 +6175,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowActionBarOverlay
+          @attr name com.lwansbrough.RCTCameraOld.test:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6189,11 +6189,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowActionModeOverlay
+          @attr name com.lwansbrough.RCTCameraOld.test:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6208,11 +6208,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowFixedHeightMajor
+          @attr name com.lwansbrough.RCTCameraOld.test:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6227,11 +6227,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowFixedHeightMinor
+          @attr name com.lwansbrough.RCTCameraOld.test:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6246,11 +6246,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowFixedWidthMajor
+          @attr name com.lwansbrough.RCTCameraOld.test:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6265,11 +6265,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowFixedWidthMinor
+          @attr name com.lwansbrough.RCTCameraOld.test:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6284,11 +6284,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowMinWidthMajor
+          @attr name com.lwansbrough.RCTCameraOld.test:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6303,11 +6303,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowMinWidthMinor
+          @attr name com.lwansbrough.RCTCameraOld.test:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6317,7 +6317,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:windowNoTitle
+          @attr name com.lwansbrough.RCTCameraOld.test:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6328,29 +6328,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.lwansbrough.RCTCamera.test:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.lwansbrough.RCTCamera.test:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.lwansbrough.RCTCamera.test:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.lwansbrough.RCTCamera.test:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.lwansbrough.RCTCamera.test:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.lwansbrough.RCTCamera.test:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.lwansbrough.RCTCamera.test:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.lwansbrough.RCTCamera.test:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.lwansbrough.RCTCamera.test:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.lwansbrough.RCTCamera.test:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.lwansbrough.RCTCamera.test:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.lwansbrough.RCTCamera.test:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.lwansbrough.RCTCamera.test:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.lwansbrough.RCTCamera.test:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.lwansbrough.RCTCamera.test:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.lwansbrough.RCTCamera.test:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.lwansbrough.RCTCamera.test:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.lwansbrough.RCTCamera.test:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.lwansbrough.RCTCamera.test:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.lwansbrough.RCTCamera.test:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.lwansbrough.RCTCamera.test:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.lwansbrough.RCTCamera.test:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.lwansbrough.RCTCamera.test:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.lwansbrough.RCTCameraOld.test:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.lwansbrough.RCTCameraOld.test:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.lwansbrough.RCTCameraOld.test:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.lwansbrough.RCTCameraOld.test:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.lwansbrough.RCTCameraOld.test:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.lwansbrough.RCTCameraOld.test:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.lwansbrough.RCTCameraOld.test:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.lwansbrough.RCTCameraOld.test:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.lwansbrough.RCTCameraOld.test:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.lwansbrough.RCTCameraOld.test:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.lwansbrough.RCTCameraOld.test:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.lwansbrough.RCTCameraOld.test:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.lwansbrough.RCTCameraOld.test:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.lwansbrough.RCTCameraOld.test:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.lwansbrough.RCTCameraOld.test:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.lwansbrough.RCTCameraOld.test:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.lwansbrough.RCTCameraOld.test:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.lwansbrough.RCTCameraOld.test:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.lwansbrough.RCTCameraOld.test:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.lwansbrough.RCTCameraOld.test:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.lwansbrough.RCTCameraOld.test:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.lwansbrough.RCTCameraOld.test:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.lwansbrough.RCTCameraOld.test:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6400,7 +6400,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6410,21 +6410,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:collapseContentDescription
+          @attr name com.lwansbrough.RCTCameraOld.test:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:collapseIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6436,11 +6436,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetEnd
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6452,11 +6452,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetLeft
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6468,11 +6468,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetRight
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6484,21 +6484,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:contentInsetStart
+          @attr name com.lwansbrough.RCTCameraOld.test:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:logo
+          @attr name com.lwansbrough.RCTCameraOld.test:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6508,11 +6508,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:logoDescription
+          @attr name com.lwansbrough.RCTCameraOld.test:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6524,11 +6524,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:maxButtonHeight
+          @attr name com.lwansbrough.RCTCameraOld.test:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6538,31 +6538,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:navigationContentDescription
+          @attr name com.lwansbrough.RCTCameraOld.test:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:navigationIcon
+          @attr name com.lwansbrough.RCTCameraOld.test:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:popupTheme
+          @attr name com.lwansbrough.RCTCameraOld.test:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6572,21 +6572,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:subtitle
+          @attr name com.lwansbrough.RCTCameraOld.test:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:subtitleTextAppearance
+          @attr name com.lwansbrough.RCTCameraOld.test:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6597,11 +6597,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:subtitleTextColor
+          @attr name com.lwansbrough.RCTCameraOld.test:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#title}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6611,11 +6611,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:title
+          @attr name com.lwansbrough.RCTCameraOld.test:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6627,11 +6627,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:titleMarginBottom
+          @attr name com.lwansbrough.RCTCameraOld.test:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6643,11 +6643,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:titleMarginEnd
+          @attr name com.lwansbrough.RCTCameraOld.test:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6659,11 +6659,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:titleMarginStart
+          @attr name com.lwansbrough.RCTCameraOld.test:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6675,11 +6675,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:titleMarginTop
+          @attr name com.lwansbrough.RCTCameraOld.test:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6691,21 +6691,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:titleMargins
+          @attr name com.lwansbrough.RCTCameraOld.test:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:titleTextAppearance
+          @attr name com.lwansbrough.RCTCameraOld.test:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6716,7 +6716,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:titleTextColor
+          @attr name com.lwansbrough.RCTCameraOld.test:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6727,9 +6727,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.lwansbrough.RCTCamera.test:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.lwansbrough.RCTCamera.test:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.lwansbrough.RCTCamera.test:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.lwansbrough.RCTCameraOld.test:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.lwansbrough.RCTCameraOld.test:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.lwansbrough.RCTCameraOld.test:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6754,7 +6754,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6766,11 +6766,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:paddingEnd
+          @attr name com.lwansbrough.RCTCameraOld.test:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6782,17 +6782,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:paddingStart
+          @attr name com.lwansbrough.RCTCameraOld.test:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lwansbrough.RCTCamera.test:theme
+          @attr name com.lwansbrough.RCTCameraOld.test:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6802,8 +6802,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.lwansbrough.RCTCamera.test:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.lwansbrough.RCTCamera.test:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.lwansbrough.RCTCameraOld.test:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.lwansbrough.RCTCameraOld.test:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6819,7 +6819,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6830,11 +6830,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lwansbrough.RCTCamera.test:backgroundTint
+          @attr name com.lwansbrough.RCTCameraOld.test:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCamera.test.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.lwansbrough.RCTCameraOld.test.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6850,7 +6850,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.lwansbrough.RCTCamera.test:backgroundTintMode
+          @attr name com.lwansbrough.RCTCameraOld.test:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

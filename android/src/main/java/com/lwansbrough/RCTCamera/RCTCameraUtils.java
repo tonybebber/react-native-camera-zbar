@@ -1,11 +1,11 @@
-package com.lwansbrough.RCTCamera;
+package com.lwansbrough.RCTCameraOld;
 
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.hardware.Camera;
 import android.view.MotionEvent;
 
-public class RCTCameraUtils {
+public class RCTCameraOldUtils {
     private static final int FOCUS_AREA_MOTION_EVENT_EDGE_LENGTH = 100;
     private static final int FOCUS_AREA_WEIGHT = 1000;
 

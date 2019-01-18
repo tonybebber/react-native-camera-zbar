@@ -46,17 +46,17 @@ pod 'react-native-camera', path: '../node_modules/react-native-camera'
 #### iOS
 1. `npm install react-native-camera@https://github.com/lwansbrough/react-native-camera.git --save`
 2. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
-3. Go to `node_modules` ➜ `react-native-camera` and add `RCTCamera.xcodeproj`
-4. In XCode, in the project navigator, select your project. Add `libRCTCamera.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
-5. Click `RCTCamera.xcodeproj` in the project navigator and go the `Build Settings` tab. Make sure 'All' is toggled on (instead of 'Basic'). In the `Search Paths` section, look for `Header Search Paths` and make sure it contains both `$(SRCROOT)/../../react-native/React` and `$(SRCROOT)/../../../React` - mark both as `recursive`.
+3. Go to `node_modules` ➜ `react-native-camera` and add `RCTCameraOld.xcodeproj`
+4. In XCode, in the project navigator, select your project. Add `libRCTCameraOld.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
+5. Click `RCTCameraOld.xcodeproj` in the project navigator and go the `Build Settings` tab. Make sure 'All' is toggled on (instead of 'Basic'). In the `Search Paths` section, look for `Header Search Paths` and make sure it contains both `$(SRCROOT)/../../react-native/React` and `$(SRCROOT)/../../../React` - mark both as `recursive`.
 5. Run your project (`Cmd+R`)
 
 
 #### Android
 1. `npm install react-native-camera@https://github.com/lwansbrough/react-native-camera.git --save`
 2. Open up `android/app/src/main/java/[...]/MainApplication.java
-  - Add `import com.lwansbrough.RCTCamera.RCTCameraPackage;` to the imports at the top of the file
-  - Add `new RCTCameraPackage()` to the list returned by the `getPackages()` method. Add a comma to the previous item if there's already something there.
+  - Add `import com.lwansbrough.RCTCameraOld.RCTCameraOldPackage;` to the imports at the top of the file
+  - Add `new RCTCameraOldPackage()` to the list returned by the `getPackages()` method. Add a comma to the previous item if there's already something there.
 
 3. Append the following lines to `android/settings.gradle`:
 

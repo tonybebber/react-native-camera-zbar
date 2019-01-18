@@ -2,10 +2,10 @@
 #import <AVFoundation/AVFoundation.h>
 #import "CameraFocusSquare.h"
 
-@class RCTCameraManager;
+@class RCTCameraOldManager;
 
-@interface RCTCamera : UIView
+@interface RCTCameraOld : UIView
 
-- (id)initWithManager:(RCTCameraManager*)manager bridge:(RCTBridge *)bridge;
+- (id)initWithManager:(RCTCameraOldManager*)manager bridge:(RCTBridge *)bridge;
 
 @end

@@ -1,62 +1,62 @@
 #import <React/RCTViewManager.h>
 #import <AVFoundation/AVFoundation.h>
 
-@class RCTCamera;
+@class RCTCameraOld;
 
-typedef NS_ENUM(NSInteger, RCTCameraAspect) {
-  RCTCameraAspectFill = 0,
-  RCTCameraAspectFit = 1,
-  RCTCameraAspectStretch = 2
+typedef NS_ENUM(NSInteger, RCTCameraOldAspect) {
+  RCTCameraOldAspectFill = 0,
+  RCTCameraOldAspectFit = 1,
+  RCTCameraOldAspectStretch = 2
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraCaptureSessionPreset) {
-  RCTCameraCaptureSessionPresetLow = 0,
-  RCTCameraCaptureSessionPresetMedium = 1,
-  RCTCameraCaptureSessionPresetHigh = 2,
-  RCTCameraCaptureSessionPresetPhoto = 3,
-  RCTCameraCaptureSessionPreset480p = 4,
-  RCTCameraCaptureSessionPreset720p = 5,
-  RCTCameraCaptureSessionPreset1080p = 6
+typedef NS_ENUM(NSInteger, RCTCameraOldCaptureSessionPreset) {
+  RCTCameraOldCaptureSessionPresetLow = 0,
+  RCTCameraOldCaptureSessionPresetMedium = 1,
+  RCTCameraOldCaptureSessionPresetHigh = 2,
+  RCTCameraOldCaptureSessionPresetPhoto = 3,
+  RCTCameraOldCaptureSessionPreset480p = 4,
+  RCTCameraOldCaptureSessionPreset720p = 5,
+  RCTCameraOldCaptureSessionPreset1080p = 6
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraCaptureMode) {
-  RCTCameraCaptureModeStill = 0,
-  RCTCameraCaptureModeVideo = 1
+typedef NS_ENUM(NSInteger, RCTCameraOldCaptureMode) {
+  RCTCameraOldCaptureModeStill = 0,
+  RCTCameraOldCaptureModeVideo = 1
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraCaptureTarget) {
-  RCTCameraCaptureTargetMemory = 0,
-  RCTCameraCaptureTargetDisk = 1,
-  RCTCameraCaptureTargetTemp = 2,
-  RCTCameraCaptureTargetCameraRoll = 3
+typedef NS_ENUM(NSInteger, RCTCameraOldCaptureTarget) {
+  RCTCameraOldCaptureTargetMemory = 0,
+  RCTCameraOldCaptureTargetDisk = 1,
+  RCTCameraOldCaptureTargetTemp = 2,
+  RCTCameraOldCaptureTargetCameraRoll = 3
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraOrientation) {
-  RCTCameraOrientationAuto = 0,
-  RCTCameraOrientationLandscapeLeft = AVCaptureVideoOrientationLandscapeLeft,
-  RCTCameraOrientationLandscapeRight = AVCaptureVideoOrientationLandscapeRight,
-  RCTCameraOrientationPortrait = AVCaptureVideoOrientationPortrait,
-  RCTCameraOrientationPortraitUpsideDown = AVCaptureVideoOrientationPortraitUpsideDown
+typedef NS_ENUM(NSInteger, RCTCameraOldOrientation) {
+  RCTCameraOldOrientationAuto = 0,
+  RCTCameraOldOrientationLandscapeLeft = AVCaptureVideoOrientationLandscapeLeft,
+  RCTCameraOldOrientationLandscapeRight = AVCaptureVideoOrientationLandscapeRight,
+  RCTCameraOldOrientationPortrait = AVCaptureVideoOrientationPortrait,
+  RCTCameraOldOrientationPortraitUpsideDown = AVCaptureVideoOrientationPortraitUpsideDown
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraType) {
-  RCTCameraTypeFront = AVCaptureDevicePositionFront,
-  RCTCameraTypeBack = AVCaptureDevicePositionBack
+typedef NS_ENUM(NSInteger, RCTCameraOldType) {
+  RCTCameraOldTypeFront = AVCaptureDevicePositionFront,
+  RCTCameraOldTypeBack = AVCaptureDevicePositionBack
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraFlashMode) {
-  RCTCameraFlashModeOff = AVCaptureFlashModeOff,
-  RCTCameraFlashModeOn = AVCaptureFlashModeOn,
-  RCTCameraFlashModeAuto = AVCaptureFlashModeAuto
+typedef NS_ENUM(NSInteger, RCTCameraOldFlashMode) {
+  RCTCameraOldFlashModeOff = AVCaptureFlashModeOff,
+  RCTCameraOldFlashModeOn = AVCaptureFlashModeOn,
+  RCTCameraOldFlashModeAuto = AVCaptureFlashModeAuto
 };
 
-typedef NS_ENUM(NSInteger, RCTCameraTorchMode) {
-  RCTCameraTorchModeOff = AVCaptureTorchModeOff,
-  RCTCameraTorchModeOn = AVCaptureTorchModeOn,
-  RCTCameraTorchModeAuto = AVCaptureTorchModeAuto
+typedef NS_ENUM(NSInteger, RCTCameraOldTorchMode) {
+  RCTCameraOldTorchModeOff = AVCaptureTorchModeOff,
+  RCTCameraOldTorchModeOn = AVCaptureTorchModeOn,
+  RCTCameraOldTorchModeAuto = AVCaptureTorchModeAuto
 };
 
-@interface RCTCameraManager : RCTViewManager<AVCaptureMetadataOutputObjectsDelegate, AVCaptureFileOutputRecordingDelegate>
+@interface RCTCameraOldManager : RCTViewManager<AVCaptureMetadataOutputObjectsDelegate, AVCaptureFileOutputRecordingDelegate>
 
 @property (nonatomic, strong) dispatch_queue_t sessionQueue;
 @property (nonatomic, strong) AVCaptureSession *session;
@@ -74,7 +74,7 @@ typedef NS_ENUM(NSInteger, RCTCameraTorchMode) {
 @property (nonatomic, strong) NSArray* barCodeTypes;
 @property (nonatomic, strong) RCTPromiseResolveBlock videoResolve;
 @property (nonatomic, strong) RCTPromiseRejectBlock videoReject;
-@property (nonatomic, strong) RCTCamera *camera;
+@property (nonatomic, strong) RCTCameraOld *camera;
 
 
 - (void)changeOrientation:(NSInteger)orientation;

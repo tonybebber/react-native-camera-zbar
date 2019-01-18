@@ -3,7 +3,7 @@
  * Android video recording support by Marc Johnson (me@marc.mn) 4/2016
  */
 
-package com.lwansbrough.RCTCamera;
+package com.lwansbrough.RCTCameraOld;
 
 import android.content.ContentValues;
 import android.graphics.Bitmap;
@@ -42,9 +42,9 @@ import java.util.Map;
 
 import javax.annotation.Nullable;
 
-public class RCTCameraModule extends ReactContextBaseJavaModule
+public class RCTCameraOldModule extends ReactContextBaseJavaModule
     implements MediaRecorder.OnInfoListener, MediaRecorder.OnErrorListener, LifecycleEventListener {
-    private static final String TAG = "RCTCameraModule";
+    private static final String TAG = "RCTCameraOldModule";
 
     public static final int RCT_CAMERA_ASPECT_FILL = 0;
     public static final int RCT_CAMERA_ASPECT_FIT = 1;
@@ -89,7 +89,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
     private ReadableMap mRecordingOptions;
     private Boolean mSafeToCapture = true;
 
-    public RCTCameraModule(ReactApplicationContext reactContext) {
+    public RCTCameraOldModule(ReactApplicationContext reactContext) {
         super(reactContext);
         _reactContext = reactContext;
         _sensorOrientationChecker = new RCTSensorOrientationChecker(_reactContext);
@@ -140,7 +140,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
     @Override
     public String getName() {
-        return "RCTCameraModule";
+        return "RCTCameraOldModule";
     }
 
     @Nullable
@@ -266,7 +266,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
      */
     private Throwable prepareMediaRecorder(ReadableMap options) {
         // Prepare CamcorderProfile instance, setting essential options.
-        CamcorderProfile cm = RCTCamera.getInstance().setCaptureVideoQuality(options.getInt("type"), options.getString("quality"));
+        CamcorderProfile cm = RCTCameraOld.getInstance().setCaptureVideoQuality(options.getInt("type"), options.getString("quality"));
         if (cm == null) {
             return new RuntimeException("CamcorderProfile not found in prepareMediaRecorder.");
         }
@@ -291,7 +291,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
         mMediaRecorder.setVideoSource(MediaRecorder.VideoSource.CAMERA);
 
         // Adjust for orientation.
-        mMediaRecorder.setOrientationHint(RCTCamera.getInstance().getAdjustedDeviceOrientation());
+        mMediaRecorder.setOrientationHint(RCTCameraOld.getInstance().getAdjustedDeviceOrientation());
 
         // Set video output format and encoding using CamcorderProfile.
         cm.fileFormat = MediaRecorder.OutputFormat.MPEG_4;
@@ -346,7 +346,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
             return;
         }
 
-        mCamera = RCTCamera.getInstance().acquireCameraInstance(options.getInt("type"));
+        mCamera = RCTCameraOld.getInstance().acquireCameraInstance(options.getInt("type"));
         if (mCamera == null) {
             promise.reject(new RuntimeException("No camera found."));
             return;
@@ -614,7 +614,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
     @ReactMethod
     public void capture(final ReadableMap options, final Promise promise) {
-        int orientation = options.hasKey("orientation") ? options.getInt("orientation") : RCTCamera.getInstance().getOrientation();
+        int orientation = options.hasKey("orientation") ? options.getInt("orientation") : RCTCameraOld.getInstance().getOrientation();
         if (orientation == RCT_CAMERA_ORIENTATION_AUTO) {
             _sensorOrientationChecker.onResume();
             _sensorOrientationChecker.registerOrientationListener(new RCTSensorOrientationListener() {
@@ -632,7 +632,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
     }
 
     private void captureWithOrientation(final ReadableMap options, final Promise promise, int deviceOrientation) {
-        Camera camera = RCTCamera.getInstance().acquireCameraInstance(options.getInt("type"));
+        Camera camera = RCTCameraOld.getInstance().acquireCameraInstance(options.getInt("type"));
         if (null == camera) {
             promise.reject("No camera found.");
             return;
@@ -643,7 +643,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
             return;
         }
 
-        RCTCamera.getInstance().setCaptureQuality(options.getInt("type"), options.getString("quality"));
+        RCTCameraOld.getInstance().setCaptureQuality(options.getInt("type"), options.getString("quality"));
 
         if (options.hasKey("playSoundOnCapture") && options.getBoolean("playSoundOnCapture")) {
             MediaActionSound sound = new MediaActionSound();
@@ -651,12 +651,12 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
         }
 
         if (options.hasKey("quality")) {
-            RCTCamera.getInstance().setCaptureQuality(options.getInt("type"), options.getString("quality"));
+            RCTCameraOld.getInstance().setCaptureQuality(options.getInt("type"), options.getString("quality"));
         }
 
         final Boolean shouldMirror = options.hasKey("mirrorImage") && options.getBoolean("mirrorImage");
 
-        RCTCamera.getInstance().adjustCameraRotationToDeviceOrientation(options.getInt("type"), deviceOrientation);
+        RCTCameraOld.getInstance().adjustCameraRotationToDeviceOrientation(options.getInt("type"), deviceOrientation);
         camera.setPreviewCallback(null);
 
         Camera.PictureCallback captureCallback = new Camera.PictureCallback() {
@@ -763,7 +763,7 @@ public class RCTCameraModule extends ReactContextBaseJavaModule
 
     @ReactMethod
     public void hasFlash(ReadableMap options, final Promise promise) {
-        Camera camera = RCTCamera.getInstance().acquireCameraInstance(options.getInt("type"));
+        Camera camera = RCTCameraOld.getInstance().acquireCameraInstance(options.getInt("type"));
         if (null == camera) {
             promise.reject("No camera found.");
             return;
