@@ -17,14 +17,14 @@ interface RCTSensorOrientationListener {
     void orientationEvent();
 }
 
-public class RCTSensorOrientationChecker {
+public class RCTSensorOrientationCheckerOld {
 
     int mOrientation = 0;
     private SensorEventListener mSensorEventListener;
     private SensorManager mSensorManager;
     private RCTSensorOrientationListener mListener = null;
 
-    public RCTSensorOrientationChecker( ReactApplicationContext reactContext) {
+    public RCTSensorOrientationCheckerOld( ReactApplicationContext reactContext) {
         mSensorEventListener = new Listener();
         mSensorManager = (SensorManager) reactContext.getSystemService(Context.SENSOR_SERVICE);
 

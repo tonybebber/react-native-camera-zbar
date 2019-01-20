@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0314E39D1B661A460092D183 /* CameraFocusSquare.m in Sources */ = {isa = PBXBuildFile; fileRef = 0314E39C1B661A460092D183 /* CameraFocusSquare.m */; };
+		0314E39D1B661A460092D183 /* CameraFocusSquareOld.m in Sources */ = {isa = PBXBuildFile; fileRef = 0314E39C1B661A460092D183 /* CameraFocusSquareOld.m */; };
 		4107014D1ACB732B00C6AA39 /* RCTCameraOld.m in Sources */ = {isa = PBXBuildFile; fileRef = 410701481ACB732B00C6AA39 /* RCTCameraOld.m */; };
 		4107014E1ACB732B00C6AA39 /* RCTCameraOldManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4107014A1ACB732B00C6AA39 /* RCTCameraOldManager.m */; };
 		454EBCF41B5082DC00AD0F86 /* NSMutableDictionary+ImageMetadata.m in Sources */ = {isa = PBXBuildFile; fileRef = 454EBCF31B5082DC00AD0F86 /* NSMutableDictionary+ImageMetadata.m */; };
-		9FE592B31CA3CBF500788287 /* RCTSensorOrientationChecker.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FE592B21CA3CBF500788287 /* RCTSensorOrientationChecker.m */; };
+		9FE592B31CA3CBF500788287 /* RCTSensorOrientationCheckerOld.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FE592B21CA3CBF500788287 /* RCTSensorOrientationCheckerOld.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,16 +27,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0314E39B1B661A0C0092D183 /* CameraFocusSquare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CameraFocusSquare.h; sourceTree = "<group>"; };
-		0314E39C1B661A460092D183 /* CameraFocusSquare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraFocusSquare.m; sourceTree = "<group>"; };
+		0314E39B1B661A0C0092D183 /* CameraFocusSquareOld.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CameraFocusSquareOld.h; sourceTree = "<group>"; };
+		0314E39C1B661A460092D183 /* CameraFocusSquareOld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraFocusSquareOld.m; sourceTree = "<group>"; };
 		4107012F1ACB723B00C6AA39 /* libRCTCameraOld.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRCTCameraOld.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		410701471ACB732B00C6AA39 /* RCTCameraOld.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTCameraOld.h; sourceTree = "<group>"; };
 		410701481ACB732B00C6AA39 /* RCTCameraOld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCTCameraOld.m; sourceTree = "<group>"; };
 		410701491ACB732B00C6AA39 /* RCTCameraOldManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTCameraOldManager.h; sourceTree = "<group>"; };
 		4107014A1ACB732B00C6AA39 /* RCTCameraOldManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCTCameraOldManager.m; sourceTree = "<group>"; };
 		454EBCF31B5082DC00AD0F86 /* NSMutableDictionary+ImageMetadata.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableDictionary+ImageMetadata.m"; sourceTree = "<group>"; };
-		9FE592B11CA3CBF500788287 /* RCTSensorOrientationChecker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTSensorOrientationChecker.h; sourceTree = "<group>"; };
-		9FE592B21CA3CBF500788287 /* RCTSensorOrientationChecker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCTSensorOrientationChecker.m; sourceTree = "<group>"; };
+		9FE592B11CA3CBF500788287 /* RCTSensorOrientationCheckerOld.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTSensorOrientationCheckerOld.h; sourceTree = "<group>"; };
+		9FE592B21CA3CBF500788287 /* RCTSensorOrientationCheckerOld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCTSensorOrientationCheckerOld.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,10 +53,10 @@
 		410701241ACB719800C6AA39 = {
 			isa = PBXGroup;
 			children = (
-				9FE592B11CA3CBF500788287 /* RCTSensorOrientationChecker.h */,
-				9FE592B21CA3CBF500788287 /* RCTSensorOrientationChecker.m */,
-				0314E39C1B661A460092D183 /* CameraFocusSquare.m */,
-				0314E39B1B661A0C0092D183 /* CameraFocusSquare.h */,
+				9FE592B11CA3CBF500788287 /* RCTSensorOrientationCheckerOld.h */,
+				9FE592B21CA3CBF500788287 /* RCTSensorOrientationCheckerOld.m */,
+				0314E39C1B661A460092D183 /* CameraFocusSquareOld.m */,
+				0314E39B1B661A0C0092D183 /* CameraFocusSquareOld.h */,
 				454EBCF31B5082DC00AD0F86 /* NSMutableDictionary+ImageMetadata.m */,
 				410701471ACB732B00C6AA39 /* RCTCameraOld.h */,
 				410701481ACB732B00C6AA39 /* RCTCameraOld.m */,
@@ -129,11 +129,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0314E39D1B661A460092D183 /* CameraFocusSquare.m in Sources */,
+				0314E39D1B661A460092D183 /* CameraFocusSquareOld.m in Sources */,
 				454EBCF41B5082DC00AD0F86 /* NSMutableDictionary+ImageMetadata.m in Sources */,
 				4107014E1ACB732B00C6AA39 /* RCTCameraOldManager.m in Sources */,
 				4107014D1ACB732B00C6AA39 /* RCTCameraOld.m in Sources */,
-				9FE592B31CA3CBF500788287 /* RCTSensorOrientationChecker.m in Sources */,
+				9FE592B31CA3CBF500788287 /* RCTSensorOrientationCheckerOld.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

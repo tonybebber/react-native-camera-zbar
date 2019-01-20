@@ -9,11 +9,11 @@
 #import <AssetsLibrary/ALAssetsLibrary.h>
 #import <AVFoundation/AVFoundation.h>
 #import <ImageIO/ImageIO.h>
-#import "RCTSensorOrientationChecker.h"
+#import "RCTSensorOrientationCheckerOld.h"
 
 @interface RCTCameraOldManager ()
 
-@property (strong, nonatomic) RCTSensorOrientationChecker * sensorOrientationChecker;
+@property (strong, nonatomic) RCTSensorOrientationCheckerOld * sensorOrientationChecker;
 @property (assign, nonatomic) NSInteger* flashMode;
 
 @end
@@ -315,7 +315,7 @@ RCT_CUSTOM_VIEW_PROPERTY(captureAudio, BOOL, RCTCameraOld) {
 
     self.sessionQueue = dispatch_queue_create("cameraManagerQueue", DISPATCH_QUEUE_SERIAL);
 
-    self.sensorOrientationChecker = [RCTSensorOrientationChecker new];
+    self.sensorOrientationChecker = [RCTSensorOrientationCheckerOld new];
   }
   return self;
 }

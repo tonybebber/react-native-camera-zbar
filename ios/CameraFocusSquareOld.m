@@ -1,4 +1,4 @@
-#import "CameraFocusSquare.h"
+#import "CameraFocusSquareOld.h"
 #import <QuartzCore/QuartzCore.h>
 
 const float squareLength = 80.0f;
